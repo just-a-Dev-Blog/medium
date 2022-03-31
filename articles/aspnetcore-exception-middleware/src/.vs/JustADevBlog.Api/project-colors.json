@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbaf06ed-9b4e-47f0-b1bf-7f85fad504ab": {
+      "ProjectGuid": "dbaf06ed-9b4e-47f0-b1bf-7f85fad504ab",
+      "DisplayName": "JustADevBlog.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
